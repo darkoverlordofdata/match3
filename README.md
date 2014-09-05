@@ -1,7 +1,11 @@
 # Match3
 
-    * Match Engine based on https://github.com/hugeen/jmatch3
-    * Demo: http://darkoverlordofdata.com/alienzed/
+Dart Match3 Game Library
+
+Match 3 is a port of the javascript jMatch3 library at
+https://github.com/hugeen/jmatch3. 
+
+To see Match3 in action, visit my [Demo:] (http://darkoverlordofdata.com/alienzed/)
     
 
 # MIT License
