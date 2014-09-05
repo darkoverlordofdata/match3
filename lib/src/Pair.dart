@@ -4,9 +4,9 @@
 #| Copyright DarkOverlordOfData (c) 2014
 #+--------------------------------------------------------------------+
 #|
-#| This file is a part of alienzed
+#| This file is a part of match3
 #|
-#| alienzed is free software; you can copy, modify, and distribute
+#| match3 is free software; you can copy, modify, and distribute
 #| it under the terms of the MIT License
 #|
 #+--------------------------------------------------------------------+

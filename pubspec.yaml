@@ -1,5 +1,5 @@
 name: match3
-version: 0.0.1
+version: 0.0.2
 description:
   A Dart port of the jMatch3 Game library
 author: brucedavidson <brucedavidson@darkoverlordofdata.com>
