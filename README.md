@@ -1,7 +1,7 @@
 # Match3
 
     * Match Engine based on https://github.com/hugeen/jmatch3
-
+    * Demo: http://darkoverlordofdata.com/alienzed/
     
 
 # MIT License
