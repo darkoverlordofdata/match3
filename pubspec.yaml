@@ -1,8 +1,8 @@
 name: match3
-version: 0.0.2
+version: 0.0.3
 description:
   A Dart port of the jMatch3 Game library
-author: brucedavidson <brucedavidson@darkoverlordofdata.com>
+author: bruce davidson <brucedavidson@darkoverlordofdata.com>
 homepage: https://github.com/darkoverlordofdata/match3
 dependencies:
 
