@@ -148,7 +148,8 @@ class Grid {
   /**
    * Return an Array of pieces
    */
-  List getColumn(List column, bool reverse) {
+//  List getColumn(List column, bool reverse) {
+  List getColumn(int column, bool reverse) {
     var pieces = [];
 
     for (int i=0; i<height; i++) {
